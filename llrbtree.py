@@ -3,7 +3,7 @@ class Node:
         self.left = None
         self.right = None
         self.data = data
-        self.color = True  # True for red, False for black
+        self.color = True  
 
 
 class LLRBTREE:
